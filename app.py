@@ -6,7 +6,7 @@ st.set_page_config(page_title="Tshepang Mmitsinyane | Resume", layout="wide")
 
 # Sidebar
 st.sidebar.title("Tshepang Mmitsinyane")
-st.sidebar.markdown("**Software Engineer | Data Scientist | AI/ML Engineer**")
+st.sidebar.markdown("**Software Engineer | Data Scientist | AI/ML Engineer | Robotics Engineer**")
 
 # ✅ Profile Picture
 st.sidebar.image("images/image.jpeg", width=150)  # <-- Add your image file in same folder
