@@ -34,7 +34,8 @@ st.sidebar.markdown("""
 - Machine Learning  
 - SQL  
 - Data Science  
-- Artificial Intelligence (AI)  
+- Artificial Intelligence (AI)
+- Robotics
 """)
 
 # Main content
@@ -177,8 +178,8 @@ with col1:
     st.write("""
 - Python  
 - Machine Learning & Deep Learning
--Robotics
--c++
+- Robotics
+- c++
 """)
 
     st.markdown("### Frameworks")
