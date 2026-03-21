@@ -57,8 +57,7 @@ st.markdown("## 🎓 Education")
 
 with st.expander("BSc Honours in Computing - UNISA"):
     st.write("""
-- **Year:** 2024-2026  
-- **Result:** Passed with Distinction  
+- **Year:** 2024-2026   
 - **Average:** 61%  
 
 **Focus Areas:**
