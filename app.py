@@ -137,7 +137,7 @@ with st.expander("Python-Controlled Autonomous Quadcopter"):
     st.write(
     """
     - Robotics Lead & Hardware Architect
-    - Arduino (C++)
+    - Arduino
     - COmputer Vision
 
     ## **Project Overview**
@@ -151,7 +151,8 @@ with st.expander("Python-Controlled Autonomous Quadcopter"):
     
     ## **Techincal Stack** 
     - Arduino (C++)
-    - Python, PID Control
+    - Python
+    - PID Control
     - Sensor Fusion
     """)
     st.image("images/drone1.jpeg", caption="Custom Built Quadcopter Prototype")
