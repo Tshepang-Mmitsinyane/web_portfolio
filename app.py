@@ -45,7 +45,7 @@ st.title("👨‍💻 Tshepang Mmitsinyane")
 st.markdown("## 🧾 Professional Summary")
 st.write(
 """
-Aspiring Software Engineer, Data Scientist, and AI/ML Engineer with a BSc Honours in Computing (with distinction). 
+Aspiring Software Engineer, Data Scientist, and AI/ML Engineer with a BSc Honours in Computing. 
 Strong foundation in Python, Machine Learning, SQL, Data Science, and AI, supported by a 98% Data Science training average. 
 Experienced in building data-driven and deep learning solutions using TensorFlow, PyTorch, and Keras. 
 Seeking a junior or internship role to apply analytical and AI-driven problem-solving skills in real-world environments.
