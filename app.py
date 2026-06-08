@@ -158,10 +158,9 @@ with st.expander("Python-Controlled Autonomous Quadcopter"):
     st.image("images/drone1.jpeg", caption="Custom Built Quadcopter Prototype")
 
 
-st.markdown("## 🚀 Upcoming Projects/Certifications")
+st.markdown("## 🚀 Upcoming Projects")
 st.write("""
-- Facial Emotion Detector
-- Azure Data scientist associate
+- AI Facial Emotion Detector
          
 """)
 
