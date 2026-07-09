@@ -26,6 +26,18 @@ st.sidebar.markdown("[GitHub](https://github.com/Tshepang-Mmitsinyane)")
 st.sidebar.markdown("[Linkedin](https://www.linkedin.com/in/tshepang-mmitsinyane-01514a259)")
 st.sidebar.markdown("[Portfolio](https://www.hyperiondev.com/portfolio/157187/)")
 
+#read pdf qualifications
+with open("images/combined(17).pdf", "rb") as pdf_file:
+    pdf_bytes = pdf_file.read()
+
+st.sidebar.download_button(
+    label="📄 Download qualifications",
+    data=pdf_bytes,
+    file_name="combined(17).pdf",
+    mime="application/pdf",
+    use_container_width=True,
+)
+
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 🧠 Core Skills")
