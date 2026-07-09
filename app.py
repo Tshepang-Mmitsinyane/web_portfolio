@@ -27,13 +27,13 @@ st.sidebar.markdown("[Linkedin](https://www.linkedin.com/in/tshepang-mmitsinyane
 st.sidebar.markdown("[Portfolio](https://www.hyperiondev.com/portfolio/157187/)")
 
 #read pdf qualifications
-with open("images/combined(17).pdf", "rb") as pdf_file:
+with open("images/combine pdf (17).pdf", "rb") as pdf_file:
     pdf_bytes = pdf_file.read()
 
 st.sidebar.download_button(
     label="📄 Download qualifications",
     data=pdf_bytes,
-    file_name="combined(17).pdf",
+    file_name="combinepdf (17).pdf",
     mime="application/pdf",
     use_container_width=True,
 )
